@@ -1,0 +1,221 @@
+body
+{
+    background-color: rgb(40, 40, 40);
+    background-attachment: fixed;
+}
+.head
+{
+    background-color: rgb(73, 59, 95);
+    height: 70px;
+    margin-left: 0px;
+    transform: translateX(-10px);
+    margin-right: 40px;
+    background-attachment: fixed;
+}
+.head p
+{
+    padding-right: 15px;
+    text-align: right;
+    color: rgb(40,40, 40);
+    font-size: 50px;
+    font-family: ROG fonts;
+}
+.menu
+{
+    transform: translateY(-35px);
+    background-attachment: fixed;
+}
+.menu input
+{
+    font-size: 17px;
+    margin: 20px;
+    color: rgb(40, 40, 40);
+    border-color:  rgb(40,40, 40);
+    border-style: solid;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgb(73, 59, 95);
+    width: 115px;
+    height: 32px;
+    font-weight: bolder;
+}
+.menu :hover
+{
+    background-color: rgb(107, 88, 138);
+}
+.cont
+{
+    margin-top: 72px;
+}
+.cont li
+{
+    margin: 8px;  
+}
+.cont a
+{
+    color: rgb(131, 106, 170);
+    text-decoration:none;
+}
+.cont h2
+{
+    color: rgb(57, 47, 73);
+}
+.cont a:hover
+{
+    color: rgb(191, 156, 248);
+}
+
+.A
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+}
+.B
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+}
+.C
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+}
+.D
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+}
+.E
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+}
+.F
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translate(-1160px,-14px);
+}
+.G
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translate(290px,-695px);
+}
+.H
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translateY(-287px);
+}
+.I
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translate(290px,-434px);
+}
+.J
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translate(290px,-571px);
+}
+.K
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translate(0px,-325px);
+}
+.L
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translate(-870px,-308px);
+}
+.M
+{
+    float: left;
+    background-color: rgb(29, 29, 29);
+    list-style: none;
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    transform: translate(-870px,-308px);
+}

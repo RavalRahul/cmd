@@ -1,0 +1,82 @@
+body
+{
+    background-color: rgb(40, 40, 40);
+    background-attachment: fixed;
+}
+.head
+{
+    background-color: rgb(73, 59, 95);
+    height: 70px;
+    margin-left: 0px;
+    transform: translateX(-10px);
+    margin-right: 40px;
+}
+.head p
+{
+    padding-right: 15px;
+    text-align: right;
+    color: rgb(40,40, 40);
+    font-size: 50px;
+    font-family: ROG fonts;
+}
+.menu
+{
+    transform: translateY(-35px);
+}
+.menu input
+{
+    font-size: 17px;
+    margin: 20px;
+    color: rgb(40, 40, 40);
+    border-color:  rgb(40,40, 40);
+    border-style: solid;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgb(73, 59, 95);
+    width: 115px;
+    height: 32px;
+    font-weight: bolder;
+}
+.menu :hover
+{
+    background-color: rgb(107, 88, 138);
+}
+.info
+{
+    color: rgb(131, 106, 170);
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(29, 29, 29);
+}
+.info h2
+{
+    color: rgb(57, 47, 73)
+}
+.cust
+{
+    color: rgb(131, 106, 170);
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(29, 29, 29);
+}
+.cust h2
+{
+    color: rgb(57, 47, 73);
+}
+.cust li
+{
+    margin-top: 15px;
+}
